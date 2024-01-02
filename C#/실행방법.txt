@@ -1,0 +1,22 @@
+* Visual Studio Code 기준
+
+- Ctrl + `(터미널 열기)
+
+- 터미널에 dotnet new console을 입력하여 C# 실행 환경을 구성
+
+- 생성된 cs파일에 코드 작성 후 터미널에 dotnet run을 입력하여 실행
+
+/* 기본 구조
+using System;
+
+namespace test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
+*/
