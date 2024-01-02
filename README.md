@@ -1,2 +1,2 @@
-# BackjoonPractice
+# BaekjoonPractice
 백준 문제 풀이
