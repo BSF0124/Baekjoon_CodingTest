@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbsdb\\Desktop\\코테\\C#\\기본문제\\practice\\practice.csproj",
+      "projectUniqueName": "D:\\Github\\BaekjoonPractice\\BaekjoonPractice\\C#\\문제\\practice\\practice.csproj",
       "projectName": "practice",
-      "projectPath": "C:\\Users\\dbsdb\\Desktop\\코테\\C#\\기본문제\\practice\\practice.csproj",
+      "projectPath": "D:\\Github\\BaekjoonPractice\\BaekjoonPractice\\C#\\문제\\practice\\practice.csproj",
       "packagesPath": "C:\\Users\\dbsdb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dbsdb\\Desktop\\코테\\C#\\기본문제\\practice\\obj\\",
+      "outputPath": "D:\\Github\\BaekjoonPractice\\BaekjoonPractice\\C#\\문제\\practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dbsdb\\AppData\\Roaming\\NuGet\\NuGet.Config",

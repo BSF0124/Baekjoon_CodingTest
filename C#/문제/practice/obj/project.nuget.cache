@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trm6of95nU2P6dVw439/cZbVN5QI/kGAm4NVU8XDT9FkgUVY1jwxpAJim+SKXVYGRJqqPmdgrs/Ygi1aLP/KGw==",
+  "dgSpecHash": "RuS7omg7HF5fadeKcoaMZTTh4nPCGCAoIUIkN3qUfBf2zkkD2o32UYcqydzrf1ZTqJZbdag/o95Qdk56ufIyIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dbsdb\\Desktop\\코테\\C#\\기본문제\\practice\\practice.csproj",
+  "projectFilePath": "D:\\Github\\BaekjoonPractice\\BaekjoonPractice\\C#\\문제\\practice\\practice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

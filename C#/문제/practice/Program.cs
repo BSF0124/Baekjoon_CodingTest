@@ -6,7 +6,11 @@ namespace practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world!");
+            string str = "Hello,";
+            Console.WriteLine(str);
+
+            str = "World!";
+            Console.WriteLine(str);
         }
     }
 }
