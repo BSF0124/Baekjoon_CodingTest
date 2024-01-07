@@ -1,16 +1,18 @@
 ﻿using System;
 
-namespace practice
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        //리스트 생성 및 초기화
+        List<int> list = new List<int>(){10, 20, 30};
+        // 리스트에 값 추가
+        list.Add(40);
+        for(int i = 0; i < list.Count; i++)
         {
-            string str = "Hello,";
-            Console.WriteLine(str);
-
-            str = "World!";
-            Console.WriteLine(str);
+            Console.WriteLine($"Element at Index {i} : {list[i]}");
         }
+
+        list.Remove(20);
     }
 }
