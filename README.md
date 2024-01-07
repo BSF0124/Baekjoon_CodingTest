@@ -1,2 +1,2 @@
-# BaekjoonPractice
-백준 문제 풀이
+# BaekjoonCodingTest
+백준 코딩테스트 연습
